@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, "Arial Black", sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#container{
+	margin-left:auto;
+	position:relative;
+	margin-right:auto;
+	width:1000px;
+	height:600px;
+}
